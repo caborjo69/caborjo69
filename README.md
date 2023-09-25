@@ -1,0 +1,2 @@
+- estou estudando no alura
+- uso o github para a minha organização e apresentação dos meus projetos desenvolvidos
